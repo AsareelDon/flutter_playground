@@ -5,8 +5,7 @@ A Flutter application that demonstrates a complete authentication lifecycle usin
 <p align="center">
   <img
     src="./assets/auth_handling_seq_diag.png"
-    width="300"
-    height="900"
+    style="width:300px; aspect-ratio: 2 / 3;"
     alt="Authentication Sequence Diagram"
   >
 </p>
