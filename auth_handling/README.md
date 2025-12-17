@@ -1,12 +1,14 @@
 # auth_handling
 
 A Flutter application that demonstrates a complete authentication lifecycle using MVVM architecture and BLoC/Cubit for state management. The app handles user login, registration, session persistence, and secure logout while maintaining a clean separation of concerns.
-![Sequence Diagram](./assets/auth_handling_seq_diag.png)
+
+<p align="center">
+  <img src="./assets/auth_handling_seq_diag.png" width="700" alt="Authentication Sequence Diagram">
+</p>
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-![Sequence Diagram](./assets/auth_handling_seq_diag.png)
 
 A few resources to get you started if this is your first Flutter project:
 
