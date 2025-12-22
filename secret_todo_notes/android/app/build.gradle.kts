@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.dups.secret_todo_notes.secret_todo_notes"
+    namespace = "com.dups.secret_todo_notes"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +21,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.dups.secret_todo_notes.secret_todo_notes"
+        applicationId = "com.dups.secret_todo_notes"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion
